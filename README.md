@@ -111,15 +111,19 @@ Este projeto fullstack foi construído utilizando as seguintes tecnologias e bib
 
 ## 🖼️ Demonstração da Aplicação
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/31bc5e38-6a1e-45e0-bcbf-c7df07334385)
+
 Tela Inicial de como irá ficar os livros
 
-![alt text](image-1.png)
+![image-1](https://github.com/user-attachments/assets/36555a74-4dd0-44bf-b890-e4f851012954)
+
 Cadastro do livro
 
-![alt text](image-2.png)
+![image-2](https://github.com/user-attachments/assets/3758459e-af86-4e37-ab7d-c5677064ab79)
+
 Detalhe do Livro
 
-![alt text](image-3.png)
+![image-3](https://github.com/user-attachments/assets/99bbb743-ad5e-4b3c-bfe7-522e0c8f856b)
+
 Fazer avaliação e recomendação
 
